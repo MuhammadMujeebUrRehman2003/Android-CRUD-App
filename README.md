@@ -1,246 +1,159 @@
-# 📱 Android-CRUD-App
-
 <div align="center">
 
-![Android](https://img.shields.io/badge/Android-Mobile_App-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Programming-F89820?style=for-the-badge&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B5E20,50:3DDC84,100:00BCD4&height=200&section=header&text=To-Do+Mobile+App&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Java+%7C+Android+Studio+%7C+Firebase&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+### `📱 Android Mobile App — Learning Project`
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&multiline=true&width=700&height=80&lines=To-Do+Mobile+App+%7C+Java+%2B+Firebase;Building+a+Complete+Android+App+from+Scratch;Learning+Mobile+Dev+%7C+UI+Design+%7C+App+Logic" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
+## 📌 Project Overview
+
+> A hands-on **To-Do Mobile Application** built as part of my Android development
+> learning journey. This project helped me understand how to structure and build
+> a complete app from scratch — covering UI design, application logic,
+> and core development concepts along the way.
+
+---
+
+## 🏗️ What I Built
+
 <div align="center">
 
-# 🚀 Mobile Application Development Showcase
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Android+CRUD+Application;Java+%7C+Firebase+%7C+SQLite;Modern+Mobile+Development;Clean+Architecture+%26+Responsive+UI" />
+| 🗂️ Feature | 📋 Description |
+|:---:|:---|
+| **Add Task** | Create new to-do items via input form |
+| **View Tasks** | Display all tasks in a clean list layout |
+| **Update Task** | Edit and save changes to existing tasks |
+| **Delete Task** | Remove completed or unwanted tasks |
+| **Firebase Integration** | Cloud-based storage with real-time data sync |
+| **Form Validation** | Input error handling for better reliability |
+| **Responsive UI** | Clean, mobile-first Android interface |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadMujeebUrRehman2003&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMujeebUrRehman2003&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
----
-
-# 📌 Project Overview
-
-This Android CRUD application was developed to demonstrate practical **mobile application development skills** using **Java, Android Studio, Firebase, and SQLite**.
-
-The application focuses on delivering a smooth mobile experience with efficient CRUD functionality, scalable architecture, and responsive UI components.
-
-It reflects real-world Android development practices while emphasizing performance, maintainability, and modern mobile application standards.
-
----
-
-# 🏗️ Key Features Implemented
-
-## 🔹 Complete CRUD Functionality
-
-- Create new records dynamically
-- Update existing data efficiently
-- Delete unnecessary records securely
-- Retrieve and display records instantly
-
----
-
-## 🔹 Modern Android UI/UX
-
-- Clean mobile interface
-- Smooth user navigation
-- Responsive layouts for better usability
-- Professional application design
-
----
-
-## 🔹 Firebase / SQLite Integration
-
-- Real-time database management
-- Structured data storage
-- Secure backend communication
-- Efficient data synchronization
-
----
-
-## 🔹 Form Validation & Security
-
-- Input validation mechanisms
-- Error handling implementation
-- Improved application reliability
-- Better user data protection
-
----
-
-## 🔹 Optimized Mobile Performance
-
-- Faster screen rendering
-- Efficient resource management
-- Improved application responsiveness
-- Enhanced user experience
-
----
-
-# 📱 Application Workflow
-
-<div align="center">
-
-```mermaid
-graph TD;
-    A[User Opens App] --> B[Login / Access Screen]
-    B --> C[Dashboard]
-    C --> D[Create Record]
-    C --> E[View Records]
-    C --> F[Update Data]
-    C --> G[Delete Record]
-    D --> H[Database Storage]
-    E --> H
-    F --> H
-    G --> H
-```
-
-</div>
-
----
-
-# 🧠 Skills & Technologies Used
+## 🧠 Tools & Technologies
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase,sqlite,git,github" />
 
-<br><br>
+</div>
 
-<img src="https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-Mobile_Programming-F89820?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mobile_UI-Responsive-blue?style=for-the-badge" />
+---
+
+## ⚡ Application Workflow
+
+<div align="center">
+
+```text
+ User Opens App
+       │
+       ▼
+ Task Dashboard
+       │
+       ▼
+ Add / View / Edit / Delete Task
+       │
+       ▼
+ Form Validation
+       │
+       ▼
+ Firebase Database
+       │
+       ▼
+ Real-Time UI Update
+```
 
 </div>
 
 ---
 
-# 📊 Project Development Analytics
+## 📊 Project Status
 
 <div align="center">
 
 | Feature | Status |
-|----------|--------|
-| CRUD Operations | ✅ Completed |
+|---|---|
+| Add Task | ✅ Completed |
+| View Tasks | ✅ Completed |
+| Update Task | ✅ Completed |
+| Delete Task | ✅ Completed |
 | Firebase Integration | ✅ Completed |
-| SQLite Database | ✅ Completed |
 | Form Validation | ✅ Completed |
-| Responsive UI | ✅ Completed |
-| Error Handling | ✅ Completed |
-| Performance Optimization | 🚧 In Progress |
-| Cloud Deployment | 🔜 Planned |
+| Dark Mode | 🔜 Planned |
+| Play Store Deployment | 🔜 Planned |
 
 </div>
 
 ---
 
-# 📊 Skill Proficiency Overview
+## 🚀 Key Learning Outcomes
 
-```text
-Android Development     █████████████████  88%
-Java Programming        ████████████████   86%
-Firebase Integration    ██████████████     80%
-SQLite Database         █████████████      78%
-Mobile UI Design        ███████████████    84%
-Problem Solving         ███████████████    85%
+```diff
++ Built a complete Android app from scratch using Java
++ Understood core mobile UI design and layout principles
++ Integrated Firebase for real-time data storage
++ Applied CRUD operations in a real mobile context
++ Learned application logic, navigation, and screen flow
++ Strengthened problem-solving through hands-on development
 ```
 
 ---
 
-# 🚀 Learning Outcomes
+## 🔮 Future Enhancements
 
-This project significantly improved my understanding of:
-
-- Android application architecture
-- Java-based mobile development
-- Firebase real-time database integration
-- SQLite database handling
-- Responsive mobile UI design
-- Mobile application optimization
-- User interaction and navigation flow
-- Real-world Android development practices
+- [ ] 🔐 User Authentication — Login & Registration
+- [ ] 🌙 Dark Mode Support
+- [ ] 🔔 Task Reminder & Push Notifications
+- [ ] 📦 Local SQLite Storage as Offline Fallback
+- [ ] 📲 Play Store Deployment
+- [ ] 🎨 Advanced UI Animations
 
 ---
 
-# 🚀 Future Enhancements
-
-- User Authentication System
-- Dark Mode Integration
-- Push Notifications
-- REST API Integration
-- Cloud Synchronization
-- Advanced UI Animations
-- Role-Based Access System
-- App Deployment on Play Store
-
----
-
-# 🏆 Project Highlights
+## 🙏 Acknowledgement
 
 <div align="center">
 
-✨ Real-Time CRUD Operations  
-✨ Firebase Database Connectivity  
-✨ Mobile Responsive Design  
-✨ Scalable Android Architecture  
-✨ User-Friendly Interface  
-✨ Optimized Performance  
+> 💡 Special thanks to my mentor and instructor
+> **[Haris Irfan](https://www.linkedin.com/in/haris-irfan-0b2480209/)**
+> for his continuous guidance and support throughout this project.
+> His mentorship played a key role in helping me complete this
+> app successfully and grow as a developer.
 
 </div>
 
 ---
 
-# 📌 Why This Project Matters
+## ⭐ Conclusion
 
-This project demonstrates my ability to design and develop scalable Android applications using modern technologies and structured development methodologies.
+<div align="center">
 
-It highlights my expertise in:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,50:3DDC84,100:1B5E20&height=120&section=footer&text=Built+to+Learn+·+Grown+through+Practice&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-- Mobile App Development
-- Backend Integration
-- Database Management
-- Android UI/UX
-- Software Engineering Principles
+</div>
 
----
-
-# 🙏 Acknowledgement
-
-Special thanks to my mentors, instructors, and learning resources that contributed to strengthening my Android development journey and practical implementation skills.
-
----
-
-# ⭐ Conclusion
-
-This project reflects my continuous growth in **Android Application Development, Mobile UI Design, and Backend Integration** while enhancing my practical software engineering capabilities.
+> *This project reflects my early steps in Android development —
+> learning how to build real apps, understand core concepts,
+> and grow through every challenge.*
 
 ---
 
 <div align="center">
 
-## 🌟 If you found this project useful, consider giving it a star ⭐
+⭐ **If this project helped or inspired you, consider starring the repo!**
 
 </div>
